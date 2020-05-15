@@ -1,0 +1,7 @@
+﻿  Facture.cpp
+  TP3c++.cpp
+C:\Users\robert\source\repos\TP3c++\TP3c++\TP3c++.cpp(12,52): error C2660: 'Facture::lirefichier_Facturator' : la fonction ne prend pas 1 arguments
+C:\Users\robert\source\repos\TP3c++\TP3c++\Facture.h(23,7): message : voir la déclaration de 'Facture::lirefichier_Facturator'
+C:\Users\robert\source\repos\TP3c++\TP3c++\TP3c++.cpp(15,57): error C2660: 'Facture::version_compatiblepour_Dacount' : la fonction ne prend pas 1 arguments
+C:\Users\robert\source\repos\TP3c++\TP3c++\Facture.h(24,7): message : voir la déclaration de 'Facture::version_compatiblepour_Dacount'
+  Génération de code en cours...
